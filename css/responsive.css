@@ -151,6 +151,9 @@
     padding: 60px 0px;
     text-align: center;
   }
+  .contact-info{
+    margin-bottom: 25px;
+  }
   .contact-info p{
     font-size: 12px;
     width: auto;
@@ -162,11 +165,14 @@
     font-size: 12px;
   }
   .form-head input{
-    padding: 8px 140px 8px 15px;
+    padding: 8px 100px 8px 15px;
     margin-right: 0;
   }
   .form-body input{
-    padding: 8px 140px 8px 15px;
+    padding: 8px 100px 8px 15px;
+  }
+  .form-group textarea{
+    padding: 15px 128px 20px 15px;
   }
   .form-btn{
     padding: 10px 15px;

@@ -361,9 +361,10 @@ header{
     padding: 8px 406px 8px 20px;
     margin-bottom: 25px;
 }
-.form-group{
-	width: 95%;
-	margin-bottom: 25px;
+.form-group textarea{
+	padding: 15px 425px 28px 15px;
+    border: none;
+    margin-bottom: 25px;
 }
 .form-btn{
 	background: black;
